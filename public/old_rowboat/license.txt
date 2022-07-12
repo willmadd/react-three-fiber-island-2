@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Rowboat
+* source:	https://sketchfab.com/3d-models/old-rowboat-9922d5678af84adeb1c9b479856446ca
+* author:	TooManyDemons (https://sketchfab.com/toomanydemons)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Rowboat" (https://sketchfab.com/3d-models/old-rowboat-9922d5678af84adeb1c9b479856446ca) by TooManyDemons (https://sketchfab.com/toomanydemons) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
